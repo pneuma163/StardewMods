@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|c:\\users\\pneuma\\source\\repos\\custom elevator sound\\custom elevator sound\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|solutionrelative:custom elevator sound\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|c:\\users\\pneuma\\source\\repos\\custom elevator sound\\custom elevator sound\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|solutionrelative:custom elevator sound\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|c:\\users\\pneuma\\source\\repos\\custom elevator sound\\custom elevator sound\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|solutionrelative:custom elevator sound\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|c:\\users\\pneuma\\source\\repos\\custom elevator sound\\custom elevator sound\\i18n\\default.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|solutionrelative:custom elevator sound\\i18n\\default.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|c:\\users\\pneuma\\source\\repos\\custom elevator sound\\custom elevator sound\\igenericmodconfigmenuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E16B4E6-00CD-4C31-B95A-A82E55237E84}|Custom Elevator Sound\\CustomElevatorSound.csproj|solutionrelative:custom elevator sound\\igenericmodconfigmenuapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "default.json",
+              "DocumentMoniker": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\i18n\\default.json",
+              "RelativeDocumentMoniker": "Custom Elevator Sound\\i18n\\default.json",
+              "ToolTip": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\i18n\\default.json",
+              "RelativeToolTip": "Custom Elevator Sound\\i18n\\default.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T23:58:12.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericModConfigMenuApi.cs",
+              "DocumentMoniker": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\IGenericModConfigMenuApi.cs",
+              "RelativeDocumentMoniker": "Custom Elevator Sound\\IGenericModConfigMenuApi.cs",
+              "ToolTip": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\IGenericModConfigMenuApi.cs",
+              "RelativeToolTip": "Custom Elevator Sound\\IGenericModConfigMenuApi.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:40:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModConfig.cs",
+              "DocumentMoniker": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\ModConfig.cs",
+              "RelativeDocumentMoniker": "Custom Elevator Sound\\ModConfig.cs",
+              "ToolTip": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\ModConfig.cs",
+              "RelativeToolTip": "Custom Elevator Sound\\ModConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T02:40:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patches.cs",
+              "DocumentMoniker": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\Patches.cs",
+              "RelativeDocumentMoniker": "Custom Elevator Sound\\Patches.cs",
+              "ToolTip": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\Patches.cs",
+              "RelativeToolTip": "Custom Elevator Sound\\Patches.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowFQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:59:02.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\ModEntry.cs",
+              "RelativeDocumentMoniker": "Custom Elevator Sound\\ModEntry.cs",
+              "ToolTip": "C:\\Users\\pneuma\\source\\repos\\Custom Elevator Sound\\Custom Elevator Sound\\ModEntry.cs",
+              "RelativeToolTip": "Custom Elevator Sound\\ModEntry.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T03:53:43.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

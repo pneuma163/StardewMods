@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Where_The_Spreading_Weeds_Are</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableHarmony>true</EnableHarmony>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Version>1.1.2</Version>
+    <Name>Where The Spreading Weeds Are</Name>
+    <Description>Informs the player about debris damage.</Description>
+    <UpdateKeys>Nexus:25450</UpdateKeys>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Leclair.Stardew.ModManifestBuilder" Version="2.3.1" />
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.1.1" />
+  </ItemGroup>
+</Project>
